@@ -51,5 +51,10 @@
   position: relative;
   top: -28px;
   line-height: 1;
-  margin: 5px;
+}
+
+.Weather .previously {
+  font-size: 14px;
+  color: #7fa99b;
+  margin-bottom: 20px;
 }
