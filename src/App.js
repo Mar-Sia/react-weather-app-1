@@ -18,7 +18,7 @@ function App() {
           </a>
           <span> and hosted on </span>
           <a
-            href="https://github.com/Mar-Sia/react-weather-app-1"
+            href="https://astonishing-profiterole-b44361.netlify.app"
             target="_blank"
             rel="noreferrer"
           >

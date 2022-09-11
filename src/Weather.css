@@ -32,10 +32,12 @@
 }
 
 .Weather canvas {
-  float: left;
-  margin-right: 10px;
   margin-top: 5px;
   display: inline-block;
+}
+
+.Weather .WeatherIcon-today {
+  float: left;
 }
 
 .Weather .Temperature {
