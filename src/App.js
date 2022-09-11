@@ -12,7 +12,7 @@ function App() {
           <a
             href="https://github.com/Mar-Sia/react-weather-app-1"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             open-sourced on GitHub
           </a>
@@ -20,7 +20,7 @@ function App() {
           <a
             href="https://astonishing-profiterole-b44361.netlify.app"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             Netlify
           </a>
