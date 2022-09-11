@@ -40,14 +40,6 @@ export default function Weather(props) {
   if (ready) {
     return (
       <div className="Weather">
-        <div className="row previously">
-          <div className="col-2">Recents:</div>
-          <div className="col-2">Cambridge</div>
-          <div className="col-2">London</div>
-          <div className="col-2">Sanur</div>
-          <div className="col-2"></div>
-          <div className="col-2"></div>
-        </div>
         <form onSubmit={handleSubmit}>
           <div className="row">
             <div className="col-9">

@@ -16,6 +16,15 @@ function App() {
           >
             open-sourced on GitHub
           </a>
+          <span> and hosted on </span>
+          <a
+            href="https://github.com/Mar-Sia/react-weather-app-1"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Netlify
+          </a>
+          .
         </footer>
       </div>
     </div>
